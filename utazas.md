@@ -1,7 +1,7 @@
 ## Utazás
 
 
-[Főoldal](http://mcsakanyi.github.io) | [Magamról](http://mcsakanyi.github.io/mcsakanyi.github.io/magamrol.md) | [Utazas](http://mcsakanyi.github.io/mcsakanyi.github.io/utazas.md) | [Hobbi](http://mcsakanyi.github.io/mcsakanyi.github.io/hobbi.md)
+[Főoldal](http://mcsakanyi.github.io) | [Magamról](http://mcsakanyi.github.io/magamrol) | [Utazas](http://mcsakanyi.github.io/utazas) | [Hobbi](http://mcsakanyi.github.io/hobbi)
 <hr>
 
 Szeretek nagyon utazni, bár főként itthon jártam sokhelyen nem pedig külföldön.
